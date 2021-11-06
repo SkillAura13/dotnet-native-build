@@ -1,6 +1,6 @@
 C# Native Build Helper by Chase L
 
-These scripts are licensed under the WTFPL as they are stuff you could easily do yourself if you weren't busy pasting from Rohitab.
+These scripts are licensed under a very permissive license as they are stuff you could easily do yourself if you weren't busy pasting from Rohitab.
 
 They only work on .NET CORE applications. Make sure dotnet is added to path.
 
